@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a test for rendering
+title: Starting a new Blog
 tags: [github-pages]
 ---
 
