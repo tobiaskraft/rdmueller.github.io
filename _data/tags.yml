@@ -10,3 +10,15 @@
 - slug: smell
   name: Code-Smell
   
+- slug: spock
+  name: Spock
+  
+- slug: geb
+  name: Geb
+
+- slug: arc42
+  name: arc42
+  
+- slug: asciidoc
+  name: asciidoc
+  
