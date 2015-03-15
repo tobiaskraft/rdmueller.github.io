@@ -152,7 +152,6 @@ Result: **$result**
 [options="header"]
 |====
 | ${params.join( ' | ' )} |
-|${params.collect { ( '-' * ( it.size() + 2 ) ) + '|' }.join()}
 <%
             for ( iteration in executedIterations ) {
 %>| ${iteration.dataValues.join( ' | ' )} | ${iteration.errors ? '(FAIL)' : '(PASS)'}
@@ -167,7 +166,7 @@ Result: **$result**
                     out << '* ' << badIteration.dataValues << '\n'
                 }
                 for ( error in badIteration.errors ) {
-                    out << '```\n' << error << '\n```\n'
+                    out << '----\n' << error << '\n----\n'
                 }
             }
         }
