@@ -27,7 +27,7 @@ So it seems that we have a convinience function (`aggregateStats`) which creates
 
 Let's modify the empty template in order to output both data structures:
 
-```gsp
+```groovy
 <% def stats = com.athaydes.spockframework.report.util.Utils.aggregateStats( data ) %>
 ${stats.inspect()}
 >>>>>>>>>>
@@ -59,7 +59,7 @@ That's great! We get hashmaps which can be easily inspected. That will make it e
 
 Now let's come up with the real template:
 
-```gsp
+```groovy
 <% def stats = com.athaydes.spockframework.report.util.Utils.aggregateStats( data )
  %>= Specification run results
 
