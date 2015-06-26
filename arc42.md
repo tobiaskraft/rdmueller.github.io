@@ -23,3 +23,10 @@ noch ein test
 | Confluence 4.2 | DE | - | [.zip](https://dl.dropbox.com/u/45486/arc42-downloads/confluence/templateDE-222302-76.xml.zip) |
 
 test
+
+a table?
+========
+
+|col1|col2|
+|row1|row1|
+|row2|row2|
