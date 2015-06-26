@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+ein test
+
 {% assign formats = "asciidoc|docbook|docx|epub|html|markdown|markdownMP|textile" | split: "|"  %}  
 {% assign types = "plain|withhelp" | split: "|"  %}  
 | Format | Language | Plain | With Help |
@@ -8,6 +11,9 @@ layout: default
 {% for format in formats %}| {{ format }} | EN | {% for type in types %} [.zip](download/arc42-template-EN-{{type}}-{{format}}.zip?raw=true) |{% endfor %}
 |  | DE | {% for type in types %} [.zip](download/arc42-template-DE-{{type}}-{{format}}.zip?raw=true) |{% endfor %}
 {% endfor %}
+----
+
+noch ein test
 
 | Confluence 5.x or 6.x | EN | - | [.zip](https://dl.dropboxusercontent.com/u/45486/arc42-downloads/confluence/templateEN-V6-confluence-53.xml.zip) |
 | Confluence 4.3 | EN | - | [.zip](https://dl.dropbox.com/u/45486/arc42-downloads/confluence/templateEN-V6-confluence-43.xml.zip) |
