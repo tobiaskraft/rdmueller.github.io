@@ -2,7 +2,7 @@
 layout: default
 ---
 
-ein test
+<p>ein test</p>
 
 {% assign formats = "asciidoc|docbook|docx|epub|html|markdown|markdownMP|textile" | split: "|"  %}  
 {% assign types = "plain|withhelp" | split: "|"  %}  
@@ -13,7 +13,7 @@ ein test
 {% endfor %}
 ----
 
-noch ein test
+<p>noch ein test</p>
 
 | Confluence 5.x or 6.x | EN | - | [.zip](https://dl.dropboxusercontent.com/u/45486/arc42-downloads/confluence/templateEN-V6-confluence-53.xml.zip) |
 | Confluence 4.3 | EN | - | [.zip](https://dl.dropbox.com/u/45486/arc42-downloads/confluence/templateEN-V6-confluence-43.xml.zip) |
