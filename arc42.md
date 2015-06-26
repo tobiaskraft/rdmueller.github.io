@@ -3,6 +3,7 @@ layout: default
 ---
 
 <p>ein test</p>
+
 {% assign formats = "asciidoc|docbook|docx|epub|html|markdown|markdownMP|textile" | split: "|"  %}  
 {% assign types = "plain|withhelp" | split: "|"  %}  
 | Format | Language | Plain | With Help |
@@ -10,9 +11,10 @@ layout: default
 {% for format in formats %}| {{ format }} | EN | {% for type in types %} [.zip](download/arc42-template-EN-{{type}}-{{format}}.zip?raw=true) |{% endfor %}
 |  | DE | {% for type in types %} [.zip](download/arc42-template-DE-{{type}}-{{format}}.zip?raw=true) |{% endfor %}
 {% endfor %}
+
 ----
 
-<p>noch ein test</p>
+<p>noch ein test dfd</p>
 
 | Confluence 5.x or 6.x | EN | - | [.zip](https://dl.dropboxusercontent.com/u/45486/arc42-downloads/confluence/templateEN-V6-confluence-53.xml.zip) |
 | Confluence 4.3 | EN | - | [.zip](https://dl.dropbox.com/u/45486/arc42-downloads/confluence/templateEN-V6-confluence-43.xml.zip) |
@@ -26,12 +28,10 @@ test
 a table?
 ========
 
-{% %}
 | col1 | col2 |
 | ---- | ---- |
 | row1 | row1 |
 | row2 | row2 |
-{% %}
 
 sdf
 
