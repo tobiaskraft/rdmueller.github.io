@@ -4,7 +4,9 @@ title: DRAFT - A Fool with a Tool is still a Fool...
 tags: []
 ---
 
-...but sometimes the tool makes a difference! I just came back from an interesting 3 day workshop on which I had a first 
+...but sometimes the tool makes a difference! 
+
+I just came back from an interesting 3 day workshop on which I had a first 
 chance to make use of my drawing equipment I bought recently. Originally, I wanted to draw some slides for my talk at 
 [Entwicklertag Karlsruhe](https://rdmueller.github.io/etka/) but we later dropped the idea in favour of professional clip art.
 
