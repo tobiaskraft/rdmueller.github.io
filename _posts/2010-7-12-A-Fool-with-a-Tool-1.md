@@ -14,7 +14,7 @@ But since we've had a flip chart available at the workshop and I thought that cr
 time when only 3 days are available, I gave it a try:
 
 I used my [neuland "fine One" set of artmarkers](http://de.neuland.com/marker-und-stifte/neuland-marker/fineone-by-neuland-artmarker-pinselpitze-13er-farbset.html?c=725) 
-and my bikablo-books with lot's of ideas on how to visualize ideas and then started to draw. The feedback I've got was great!
+and my [bikablo-books](http://bikablo.kommunikationslotsen.de/bikablo-produkte/) with lot's of ideas on how to visualize ideas and then started to draw. The feedback I've got was great!
 
 The "fine One" markers are not the best for a flip chart - they are designed for smaller format, but the do work on larger formats too.
 The brush tip gives your drawings a professional look which is visibly different from standard flip chart markers. The different light colors enable you to colorize your visualisations and give them the finishing touch.
