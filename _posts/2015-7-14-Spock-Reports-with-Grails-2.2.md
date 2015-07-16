@@ -4,7 +4,7 @@ title: Spock-Reports for Grails 2.2
 tags: [spock, grails]
 ---
 
-In a previous post I described how to use [Spock-Reports](https://github.com/renatoathaydes/spock-reports) with [Grails 3.0](http://www.grails.org). 
+In a [previous post](https://rdmueller.github.io/Spock-Reports-with-Grails-3.0/) I described how to use [Spock-Reports](https://github.com/renatoathaydes/spock-reports) with [Grails 3.0](http://www.grails.org). 
 
 That was easy since Grails 3.0 is Gradle based.
 
