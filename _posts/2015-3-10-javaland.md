@@ -10,7 +10,7 @@ Die zwei Tage waren natürlich vollgepackt mit Vorträgen, gutem Essen und guter
 
 Für mich waren folgende Vorträge am interessantesten:
 
-* [Dierk König](https://twitter.com/mitie) "[Fun in GroovyLand](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509525)": Wie Tobias schon geschrieben hat, super Vortragsstil trotz ausgefallener Technik. Und @canonical + @builder haben sich bei mir als nützliche Annotation eingeprägt
+* [Dierk König](https://twitter.com/mittie) "[Fun in GroovyLand](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509525)": Wie Tobias schon geschrieben hat, super Vortragsstil trotz ausgefallener Technik. Und @canonical + @builder haben sich bei mir als nützliche Annotation eingeprägt
 * [Daniel Grycman](https://twitter.com/danielgrycman) "[Introduction to Agile Documentation]": selbst noch nicht gesehen, soll aber gut gewesen sein, da AsciiDoc ;-)
 * [MrHaki](https://twitter.com/mrhaki) "[Writing Documentation with Asciidoctor Is Awesome](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509825)": Toller Vortragsstil mit Live-Coding über ein langes Asciidoc-Dokument
 * Andreas Knuth "[PhantomJS - Schweizer Taschenmesser der WWW-Automatisierung](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509726)": Interessante Einblicke über die unter PhantomJS liegende Technologie und warum wir [PhantomJS-CEF](https://github.com/KDAB/phantomjs-cef) brauchen.
