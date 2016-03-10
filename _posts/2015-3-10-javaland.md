@@ -14,9 +14,9 @@ Für mich waren folgende Vorträge am interessantesten:
 * [Daniel Grycman](https://twitter.com/danielgrycman) "[Introduction to Agile Documentation](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509701)": selbst noch nicht gesehen, soll aber gut gewesen sein, da AsciiDoc ;-)
 * [MrHaki](https://twitter.com/mrhaki) "[Writing Documentation with Asciidoctor Is Awesome](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509825)": Toller Vortragsstil mit Live-Coding über ein langes Asciidoc-Dokument
 * Andreas Knuth "[PhantomJS - Schweizer Taschenmesser der WWW-Automatisierung](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509726)": Interessante Einblicke über die unter PhantomJS liegende Technologie und warum wir [PhantomJS-CEF](https://github.com/KDAB/phantomjs-cef) brauchen.
-* [Alexander Heusingfeld](https://twitter.com/goldstift) und [Tammo van Lessen](https://twitter.com/taval) "[When Microservices Meet Real-World Projects: Lessons Learned](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509488)": Super Tipps und eine Leand-Deployment-Pipeline (Pull statt Push!)
-* [Markus Schlichting](https://twitter.com/madmas) "[Token statt Cookies dank JWT](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509841)": genau, was ich gesucht habe, um meine JSESSIONID los zu werden!
-* 
+* [Alexander Heusingfeld](https://twitter.com/goldstift) und [Tammo van Lessen](https://twitter.com/taval) "[When Microservices Meet Real-World Projects: Lessons Learned](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509488)": Super Tipps und eine Leand-Deployment-Pipeline (Pull statt Push!) -> [Slides](https://www.innoq.com/en/talks/2016/03/javaland-2016-microservices-lessons-learned/)
+* [Markus Schlichting](https://twitter.com/madmas) "[Token statt Cookies dank JWT](https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=499959&locS=0&vid=509841)": genau, was ich gesucht habe, um meine JSESSIONID los zu werden! -> [Slides](https://github.com/madmas/TokenVsCookies/tree/JavaLand2016)
+
 <table>
 <tr>
 <td>
